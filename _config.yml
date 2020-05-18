@@ -2,8 +2,8 @@ title: Hello. 😄
 description: > # this means to ignore newlines until "baseurl:"
   I hope this blog will work as some source of the knowlege about programming.
 permalink: ':title/'
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/blog-tech" # the subpath of your site, e.g. /blog
+url: "https://ernichechelski.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
